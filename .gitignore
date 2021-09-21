@@ -2,12 +2,11 @@
 
 # dependencies
 /node_modules/
-/public/build/
+/build/
 
 .DS_Store
 /.idea/
 /.vscode/
-.env
 /src/cfg.js
 
 # testing
